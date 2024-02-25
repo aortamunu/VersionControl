@@ -3,9 +3,9 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Mock data for products
     const products = [
-        { name: "Product 1", price: "$10", description: "Description of Product 1" },
-        { name: "Product 2", price: "$15", description: "Description of Product 2" },
-        { name: "Product 3", price: "$20", description: "Description of Product 3" }
+        { name: "Product 1st", price: "$10", description: "Description of Product 1" },
+        { name: "Product 2nd", price: "$15", description: "Description of Product 2" },
+        { name: "Product 3rd", price: "$20", description: "Description of Product 3" }
     ];
 
     const productsSection = document.getElementById("products");
